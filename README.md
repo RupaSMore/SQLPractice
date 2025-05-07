@@ -1,6 +1,6 @@
 # SQLPractice
 
-Practicing SQL Queries
+# Practicing SQL Queries
 
 create table
 
